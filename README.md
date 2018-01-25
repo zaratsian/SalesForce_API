@@ -3,4 +3,7 @@ This repo contains projects and random code that I've developed for interacting 
 
 
 <br><b>References:</b>
+<br><a href="https://developer.salesforce.com/page/REST_API">SalesForce REST API</a>
+<br><a href="https://developer.salesforce.com/docs/atlas.en-us.object_reference.meta/object_reference/sforce_api_objects_account.htm">SalesForce Standard Objects</a>
 <br><a href="https://github.com/simple-salesforce/simple-salesforce">SalesForce Python API</a>
+
